@@ -1,0 +1,205 @@
+{
+    "name": "PS4Control",
+    "maps": [
+        {
+            "name": "Movimientos",
+            "id": "849edb55-1e9a-4c87-81e9-8ca8c7a5be9f",
+            "actions": [
+                {
+                    "name": "agachar",
+                    "type": "Button",
+                    "id": "5e14d3d9-dfa3-436f-b01a-90ff139d4e63",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press"
+                },
+                {
+                    "name": "saltar",
+                    "type": "Button",
+                    "id": "b098b3c5-8a89-43d9-85a5-501d1ee4af6f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press"
+                },
+                {
+                    "name": "Spin",
+                    "type": "Button",
+                    "id": "74aa49d3-0a45-46e5-9578-314ca9c723e0",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press"
+                },
+                {
+                    "name": "subirNave",
+                    "type": "Button",
+                    "id": "e1b3c2c6-75d2-48e2-b867-9e5ae8361fea",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press"
+                },
+                {
+                    "name": "Caminar",
+                    "type": "Value",
+                    "id": "124a6f38-588b-4f63-93cc-7138a2fc1fe0",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "Press"
+                },
+                {
+                    "name": "puñetazo",
+                    "type": "Button",
+                    "id": "40c3b987-0e52-4d6b-98e5-8f16685107be",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press"
+                },
+                {
+                    "name": "salirApp",
+                    "type": "Button",
+                    "id": "bd693deb-815d-4501-aff2-15b6db39a59c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press"
+                },
+                {
+                    "name": "reiniciarApp",
+                    "type": "Button",
+                    "id": "b1eea33b-9cfe-40a8-beb4-cc0baa3d9ff9",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press"
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d53500b5-dfa5-4e53-86fa-0ff8a70e03bb",
+                    "path": "<Gamepad>/leftShoulder",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "agachar",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2efb8560-89f8-4d16-a07c-3fa5d8be507c",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Ps4Control",
+                    "action": "saltar",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "53ed3621-30ee-4804-b9ac-402f59c1f418",
+                    "path": "<Gamepad>/buttonEast",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Spin",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d56bff73-2129-4979-99ef-2ed397ba2cd6",
+                    "path": "<Gamepad>/buttonNorth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Ps4Control",
+                    "action": "subirNave",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "aba9d8ea-167e-4543-a0b3-5443fcff292d",
+                    "path": "<Gamepad>/leftStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Ps4Control",
+                    "action": "Caminar",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "076b9f48-705a-4bb3-af04-d1b9954e3842",
+                    "path": "<Gamepad>/buttonWest",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Ps4Control",
+                    "action": "puñetazo",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "01b566ad-24b0-41fe-a6c1-9497ba7c221e",
+                    "path": "<Gamepad>/leftTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Ps4Control",
+                    "action": "salirApp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5dd3c402-c4a9-471e-aae9-fa896363c1d1",
+                    "path": "<Gamepad>/rightTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Ps4Control",
+                    "action": "reiniciarApp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "camara",
+            "id": "a11d4cb4-4e01-4add-8bbe-77f0737a99c9",
+            "actions": [
+                {
+                    "name": "Giro",
+                    "type": "Value",
+                    "id": "8a44802a-c123-469e-991f-952d69102a41",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "eb355230-385d-40b1-bfc3-5cb94a062a32",
+                    "path": "<Gamepad>/rightStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Ps4Control",
+                    "action": "Giro",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Ps4Control",
+            "bindingGroup": "Ps4Control",
+            "devices": [
+                {
+                    "devicePath": "<DualShockGamepad>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
