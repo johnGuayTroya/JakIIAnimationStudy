@@ -1,6 +1,5 @@
+# Unity version--->2019.3.0f6 #
 # README #
-
-Unity version--->2019.3.0f6
 
 In the case that the build is needed, a control is necessary, either from PS4, Xbox ...
 
@@ -13,9 +12,9 @@ with an Xbox controller or similar it should go without a problem.
 In this repository I show the study I have done on the animations of the PS2 game JAKII
 and its implementation in the Unity engine.
 
-# LEEME #
+# Versión Unity--->2019.3.0f6 #
 
-Versión Unity--->2019.3.0f6
+# LEEME #
 
 En el caso que se pruebe la build es necesario un control,ya sea de PS4,Xbox...
 
