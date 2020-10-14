@@ -1,29 +1,24 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+In the case that the build is needed, a control is necessary, either from PS4, Xbox ...
+
+if you use a PS4 control download this program -----> http://ds4windows.com/
+
+with an Xbox controller or similar it should go without a problem.
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+In this repository I show the study I have done on the animations of the PS2 game JAKII
+and its implementation in the Unity engine.
 
-### How do I get set up? ###
+# LEEME #
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+En el caso que se pruebe la build es necesario un control,ya sea de PS4,Xbox...
 
-### Contribution guidelines ###
+sí se usa un control de PS4 descargad este programa----->   http://ds4windows.com/
 
-* Writing tests
-* Code review
-* Other guidelines
+con un control de Xbox o similar debería ir sin problema.
 
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+### ¿Para qué es este repositorio? ###
+En este repositorio muestro el estudio que he realizado sobre las animaciones del juego de PS2 JAKII
+y su implementeación en el motor Unity.
